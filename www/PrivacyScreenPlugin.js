@@ -1,4 +1,4 @@
-//var exec = require('cordova/exec');
+var exec = require('cordova/exec');
 
 /** 
  * Not sure this will even have a JS API
